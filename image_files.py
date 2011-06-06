@@ -46,6 +46,8 @@ level_key = {'V':'pipes_3_upup.png',  #vertical upup pipe
 			 '2':'powerups_02.png',  #powerup 2
 			 '3':'powerups_03.png',  #powerup 3
 			 'a':'doodads_01.png',  #doodad 1
+			 't':'powerups_03.png', #peter's debugging doodad
+			 '-':'blocks_01.png',
 			 #'b':'doodads_02.png',  #doodad 2
 			 #'c':'doodads_03.png',  #doodad 3
 			 }
